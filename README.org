@@ -1,4 +1,4 @@
 Задание для собеседования на позицию Senior Build Engineer/DevOPS Engineer.
 
 Запустить программу можно из корневной директории репозитория:
-~exec_commands ./~
+~exec_commands.py ./~
