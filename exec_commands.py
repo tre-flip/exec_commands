@@ -69,7 +69,7 @@ def help():
     Print help for this program.
     """
     info = f"""
-    Traverse a directory tree DIR and execute echo commands contained
+    Traverse a directory tree DIR and execute commands contained
     in {CMDS_VAR_NAME} accross all .py files in it.
 
     Usage: exec_commands.py DIR
